@@ -5,6 +5,7 @@ leeftijd: 40,
 studie: 6,
 }
 
-function berekenen () {
-    return leeftijd/studie
-}
+
+console.log(persoon1.voornaam);
+
+
