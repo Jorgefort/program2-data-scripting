@@ -59,6 +59,6 @@ $boeken = $result->fetchAll();
     </table>
     
     <p>Totaal aantal boeken: <?php echo count($boeken); ?></p>
-    
+        
 </body>
 </html>
